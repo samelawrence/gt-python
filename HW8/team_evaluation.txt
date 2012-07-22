@@ -1,0 +1,11 @@
+Solace Collestan
+scollestan@gatech.edu
+
+Team Evaluation
+
+Team Member: Sam Lawrence (samlawrence@gatech.edu)
+
+I focused more on the coding for this project and used the transitions and effects we created in hw7. Sam worked more on the artistic parts and editing done outside of python including finding audio for the work and shooting most of the footage.
+
+
+The percentage of work on this project was evenly split: 50%/50%.

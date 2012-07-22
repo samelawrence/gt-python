@@ -1,0 +1,29 @@
+tuples - any data type, but immutable
+strings - sequence of characters
+list - any data type, mutable
+dictionary - key value pairs
+
+all these compound data types can be iterated across
+
+tuples, generally denoted by ( ) parentheses.
+t1 = ("a rainy day",)
+Tuples can hold any data type.
+No indices/slicing/appending
+Immutable
+
+Dictionaries: Key-Value pairs
+
+key - any immutable type
+value - any data type
+
+sportsPlayers = {}
+sportsPlayers["tennis"] = "Federer"
+sportsPlayers["Football"] = "Manning"
+sp = {"tennis":"Federer"}, "football":"Manning"}
+del sportsPlayers["tennis"]
+
+sp.keys() = lot of keys
+sp.values() = lot of values
+sp.has_key("...") = Boolean
+sp.items() = list of all key-value pairs as tuple.
+sp.get(key, default) = returns value of key, or default if absent.

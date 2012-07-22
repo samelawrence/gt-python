@@ -1,0 +1,11 @@
+"Shaken, not Stirred" is a montage of classic James Bond scenes. It starts out with a scene of one robot running around like crazy. This is meant to either simulate a car chase, or a fight, but without showing any clear detail of the action. The confusion is meant to immerse the viewer, but we couldn't really draw much emotion out of our actors... so we just threw the Benny Hill theme on top and made it ridiculous. This footage was all captured by a second robot.
+
+
+
+The next scene is the classic Bond intro, with robot "Bond" entering from right to left, turning, and shooting the viewer. The red wipe downward is to emulate the blood drip effect that passes across the view inside the barrel in the beginning of the 1960s Bond films. This scene then fades in a right to left image wipe to the torture scene.
+
+
+
+Here, "Bond" is being lowered into a shark pit... with frickin' laser beams on their frickin' heads. His nemesis banters with him, and here we used the famous dialogue from "Goldfinger". This scene ends with a dissolve transition to black. Credits at beginning and end, and full image compilation executed using Windows Movie Maker and Python. Super by eRightSoft used for splitting video into JPGs. Non-robot video captured using an Apple iPhone 3G[S].
+
+This video is distributed under the Creative Commons License. All rights released for reproduction and distribution, with author credit given to Solace Collestan and Sam Lawrence.
